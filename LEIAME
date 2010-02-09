@@ -1,0 +1,3 @@
+Para que o applet functione, copie o arquivo gerador-de-documentos-nacionais.py para /usr/bin e o GNOME_GeradorDeDocumentosNacionaisApplet.server para /usr/lib/bonobo/servers/.
+
+Clique com o botão direito no Gnome Panel e depois em adicionar ao painel. Lá dentro estará o gerador de documentos nacionais.
