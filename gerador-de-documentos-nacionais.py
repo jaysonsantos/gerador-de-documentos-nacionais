@@ -158,7 +158,7 @@ if standalone:
     CpfApplet(window)
     gtk.main()
 else:
-    gnomeapplet.bonobo_factory("OAFIID:GNOME_GeradorCpfApplet_Factory", 
+    gnomeapplet.bonobo_factory("OAFIID:GNOME_GeradorDeDocumentosNacionaisApplet_Factory", 
                                  gnomeapplet.Applet.__gtype__, 
                                  "hello", "0", sample_factory)
 
