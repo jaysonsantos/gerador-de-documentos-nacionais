@@ -1,0 +1,1 @@
+Applet para o gnome-panel para gerar CPF e CNPJ.
